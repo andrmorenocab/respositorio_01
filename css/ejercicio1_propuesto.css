@@ -1,4 +1,45 @@
 * {
-    background-color: black;
-    font-size: 1px;
+   margin: 0;
+   padding: 0;
+}
+header{
+    text-align: center;
+}
+.texto_cabecera{
+    font-size: 11px;
+}
+.linea{
+    width: 80%;
+    margin-left: 10%;
+}
+.cabecera_tabla{
+    text-align: center;
+    background-color: #7b6a66;
+}
+.pie_tabla{
+    background-color: #e8dbd7;
+}
+table {
+    border-collapse: collapse;
+    margin-left: 10%;
+}
+td{
+    padding: 1%;
+}
+h3, p, img, a{
+    margin-left: 10%;
+}
+h2{
+    margin-left: 12.5%;
+    color: #477dc6;
+    margin-top: 6%;
+}
+ul{
+    margin-left: 15%;
+}
+.ejercicio1{
+    color: #75aefa;
+}
+h3{
+    color: grey;
 }
